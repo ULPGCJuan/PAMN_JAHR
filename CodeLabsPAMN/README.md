@@ -30,7 +30,11 @@ El último ejercicio trabaja con API y la gestión de tareas en segundo plano me
 Los ejercicios y proyectos realizados hasta ahora son una base sólida para el desarrollo del Proyecto Final de la asignatura. Este proyecto integrará elementos clave como:
 
 -Manejo de listas y tarjetas con imágenes.
+
 -Interacción mediante botones.
+
 -Consumo de APIs externas.
+
 -Uso de WorkManager para tareas en segundo plano.
+
 -Tratamiento de datos en JSON.
